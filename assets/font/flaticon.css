@@ -1,0 +1,191 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?3b1e36e01e393db172fa36d04aa59d56") format("truetype"),
+url("./flaticon.woff?3b1e36e01e393db172fa36d04aa59d56") format("woff"),
+url("./flaticon.woff2?3b1e36e01e393db172fa36d04aa59d56") format("woff2"),
+url("./flaticon.eot?3b1e36e01e393db172fa36d04aa59d56#iefix") format("embedded-opentype"),
+url("./flaticon.svg?3b1e36e01e393db172fa36d04aa59d56#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-right-arrow-circular-button-outline:before {
+    content: "\f101";
+}
+.flaticon-back-left-arrow-circular-button-outline:before {
+    content: "\f102";
+}
+.flaticon-message:before {
+    content: "\f103";
+}
+.flaticon-headphones:before {
+    content: "\f104";
+}
+.flaticon-right-arrow:before {
+    content: "\f105";
+}
+.flaticon-web-programming:before {
+    content: "\f106";
+}
+.flaticon-code:before {
+    content: "\f107";
+}
+.flaticon-optimization:before {
+    content: "\f108";
+}
+.flaticon-clipboard:before {
+    content: "\f109";
+}
+.flaticon-website:before {
+    content: "\f10a";
+}
+.flaticon-message-1:before {
+    content: "\f10b";
+}
+.flaticon-analytics:before {
+    content: "\f10c";
+}
+.flaticon-double-checking:before {
+    content: "\f10d";
+}
+.flaticon-down-arrow:before {
+    content: "\f10e";
+}
+.flaticon-searching-magnifying-glass:before {
+    content: "\f10f";
+}
+.flaticon-black-back-closed-envelope-shape:before {
+    content: "\f110";
+}
+.flaticon-computer:before {
+    content: "\f111";
+}
+.flaticon-web-design:before {
+    content: "\f112";
+}
+.flaticon-half-tiny-star:before {
+    content: "\f113";
+}
+.flaticon-website-1:before {
+    content: "\f114";
+}
+.flaticon-satisfied:before {
+    content: "\f115";
+}
+.flaticon-launch:before {
+    content: "\f116";
+}
+.flaticon-phone-call:before {
+    content: "\f117";
+}
+.flaticon-call:before {
+    content: "\f118";
+}
+.flaticon-maps-and-flags:before {
+    content: "\f119";
+}
+.flaticon-user-experience:before {
+    content: "\f11a";
+}
+.flaticon-computer-1:before {
+    content: "\f11b";
+}
+.flaticon-coding:before {
+    content: "\f11c";
+}
+.flaticon-hosting:before {
+    content: "\f11d";
+}
+.flaticon-website-content:before {
+    content: "\f11e";
+}
+.flaticon-website-2:before {
+    content: "\f11f";
+}
+.flaticon-arrow-pointing-to-right:before {
+    content: "\f120";
+}
+.flaticon-tick:before {
+    content: "\f121";
+}
+.flaticon-rocket:before {
+    content: "\f122";
+}
+.flaticon-trophy:before {
+    content: "\f123";
+}
+.flaticon-shopping-list:before {
+    content: "\f124";
+}
+.flaticon-rate:before {
+    content: "\f125";
+}
+.flaticon-analyze:before {
+    content: "\f126";
+}
+.flaticon-planning:before {
+    content: "\f127";
+}
+.flaticon-responsive:before {
+    content: "\f128";
+}
+.flaticon-code-1:before {
+    content: "\f129";
+}
+.flaticon-launch-1:before {
+    content: "\f12a";
+}
+.flaticon-monitoring:before {
+    content: "\f12b";
+}
+.flaticon-star:before {
+    content: "\f12c";
+}
+.flaticon-right-quote-sign:before {
+    content: "\f12d";
+}
+.flaticon-add:before {
+    content: "\f12e";
+}
+.flaticon-plus-sign:before {
+    content: "\f12f";
+}
+.flaticon-twitter:before {
+    content: "\f130";
+}
+.flaticon-facebook:before {
+    content: "\f131";
+}
+.flaticon-linkedin-letters:before {
+    content: "\f132";
+}
+.flaticon-instagram:before {
+    content: "\f133";
+}
+.flaticon-whatsapp:before {
+    content: "\f134";
+}
+.flaticon-previous:before {
+    content: "\f135";
+}
+.flaticon-next:before {
+    content: "\f136";
+}
+.flaticon-calendar:before {
+    content: "\f137";
+}
+.flaticon-comment-white-oval-bubble:before {
+    content: "\f138";
+}
+.flaticon-double-right-arrows-angles:before {
+    content: "\f139";
+}
